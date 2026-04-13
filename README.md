@@ -24,5 +24,6 @@ This project presents a comprehensive data visualization and business intelligen
 - 📝 `README.md` : Project documentation.
 
 ## 🚀 How to View
-1. **Option 1:** Download the `.twbx` file and open it in **Tableau Desktop** or **Tableau Reader**.
-2. **Option 2:** (If uploaded to Tableau Public) ![Epic Games Dashboard](Dashboard_Preview.png)
+1. **Option 1:** Download the `Epic Games – Global Gaming Analytics.twbx` file and open it in **Tableau Desktop** or **Tableau Reader**.
+2. **Option 2:** <img width="1654" height="786" alt="Dashboard_Preview" src="https://github.com/user-attachments/assets/5289551a-b97e-428b-b91f-2127622b46b6" />
+
