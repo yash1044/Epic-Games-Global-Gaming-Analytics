@@ -16,7 +16,6 @@ This project presents a comprehensive data visualization and business intelligen
 ## 📸 Dashboard Preview
 > **Note:** Since GitHub doesn't render `.twbx` files, you can view the dashboard screenshot below:
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ## 📂 Project Structure
 - 📄 `Epic Games – Global Gaming Analytics.twbx` : The packaged Tableau workbook.
